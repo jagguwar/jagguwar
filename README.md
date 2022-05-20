@@ -4,7 +4,7 @@
 
 Me chamo Danilo, também conhecido como Jagguwar em alguns outros lugares da internet 😁
 
-Atualmente sou um estudante e entusiasta da linguagem Kotlin <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/kotlin.svg" alt="" height="20"> com foco em desenvolvimento de aplicativos móveis para Android 📲
+Atualmente sou um estudante e entusiasta da linguagem Kotlin com foco em desenvolvimento de aplicativos móveis para Android 📲
 
 Ansioso para contribuir em projetos reais, expandir meus conhecimentos e explorar o desconhecido 🌎
 
